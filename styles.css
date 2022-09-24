@@ -16,11 +16,8 @@ nav {
     text-align: right;
     color: teal;
     width: 500px;
-    margin-left: 62%;
+    margin-left: 13%;
     margin-right: 0%;
-    display: flex;
-    border-style: solid;
-    border: solid black 5%;
 }
 nav > a {
     font-size: 20px;
@@ -29,7 +26,7 @@ nav > a {
 header {
     display: inline-block;
     width: 100%;
-    height: 185px;
+    height: 130px;
     background-color: white;
     border-top-style: solid;
     border-bottom-style: solid; 
